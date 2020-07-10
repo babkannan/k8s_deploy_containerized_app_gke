@@ -1,1 +1,2 @@
-- The demo project is to build the Simple Web application in NodeJS 
+- The demo project is to build the Simple Web application in NodeJS
+- Added the documentation part
